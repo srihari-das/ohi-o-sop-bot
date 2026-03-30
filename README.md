@@ -45,8 +45,8 @@ Which tier was used is logged during ingestion and stored per chunk in ChromaDB,
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/ohio-sop-bot.git
-cd ohio-sop-bot
+git clone [https://github.com/yourusername/ohio-sop-bot.git](https://github.com/srihari-das/ohi-o-sop-bot.git)
+cd ohi-o-sop-bot
 ```
 
 ### 2. Install dependencies
