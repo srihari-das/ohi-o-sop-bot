@@ -1,0 +1,8 @@
+discord.py
+sentence-transformers
+chromadb
+groq
+google-api-python-client
+google-auth
+gspread
+python-dotenv
